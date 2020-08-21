@@ -1,0 +1,8 @@
+<job_desc>
+    <task>
+        <application>client</application>
+        <exec_dir>/content/projects/minecraftathome.com_minecrafthome/kaktwoos-cl</exec_dir>
+        <multi_process/>
+        <append_cmdline_args/>
+    </task>
+</job_desc>
